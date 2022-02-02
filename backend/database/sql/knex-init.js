@@ -7,12 +7,12 @@ var path = require('path')
 
 module.exports =
 {
-	client: 'postgresql',
+	client: 'myrds.cyhtjvsnjph3.us-east-2.rds.amazonaws.com',
 	connection:
 	{
 		database: 'webapp',
-		user:     'webapp',
-		password: 'webapp'
+		user:     'postgres',
+		password: 'ramana4u2021'
 	},
 	pool:
 	{
