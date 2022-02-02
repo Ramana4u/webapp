@@ -220,7 +220,7 @@ module.exports =
 	// },
 	redis:
 	{
-		host : 'localhost',
+		host : 'myredis-001.rufx6z.0001.use2.cache.amazonaws.com',
 		port : 6379
 	},
 }
